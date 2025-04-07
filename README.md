@@ -1,5 +1,5 @@
 
-# 🛠️ **Servo-Controlled Ultrasonic Distance Measurement **
+# 🛠️ Servo-Controlled Ultrasonic Distance Measurement 
 
 This project demonstrates how to control a **servo motor** and measure distance using an **ultrasonic sensor**. The servo motor sweeps from **15° to 165°** and back, while the ultrasonic sensor calculates and reports the distance at each angle, displaying it in the **Serial Monitor**.
 
